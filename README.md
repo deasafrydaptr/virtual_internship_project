@@ -1,5 +1,3 @@
 # VIX: Business Intelligence Analyst
-Rakamin Academy x Bank Muamalat
-Assets of sales dashboard (final project):
-- Master.csv
-- Super_Table.csv
+## Assets
+- Cluster Analysis.ipynb: Python script of cluster analysis using the K-Means algorithm for banking customers.
